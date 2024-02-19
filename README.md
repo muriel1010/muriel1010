@@ -1,7 +1,6 @@
 - 👋 Hi, I’m MURIEL TEMA
-- 👀 I’m interested in Data Analytics and Science
-- 🌱 I’m currently learning Computer Science,Data Analysis, Machine Learning
-- 💞️ I’m looking to collaborate on DATA Projects
+- 🌱 I’m currently studying Computer Science at Graduate Level
+- 💞️ Everyday, I enhance my Data Analytics skills, Data Science and Machine Learning
 
 
 <!---
