@@ -5,8 +5,7 @@ Welcome to my GitHub! I'm a data-driven problem solver passionate about uncoveri
 📊 Focused on Data Analytics, Data Science & Visualization  
 🛠️ Tools: Python | SQL | Excel | Tableau | Power BI  | R
 🔍 I love turning raw data into actionable strategies  
-💬 Ask me about visual storytelling, dashboards, Analysis  
-😄 Pronouns: she/her  
+💬 Ask me about visual storytelling, dashboards, Analytics    
 🌍 Fun fact: I enjoy traveling, exploring cultures, and staying active  
 🤝 Let’s connect: [[LinkedIn](https://www.linkedin.com/in/muriel-tema-8ba55a230/)]  
 🎈 Off the clock, I love making memories with family and friends  
