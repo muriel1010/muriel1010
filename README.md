@@ -1,8 +1,6 @@
 ### Hi there! I'm Muriel Tema   
 Welcome to my GitHub! I'm a data-driven problem solver passionate about uncovering insights that matter.
-
- **Master’s graduate** in Computer Science 
- Focused on Data Analytics, Data Science & Visualization  
+ 
  **Tools**: Python | SQL | Excel | Tableau | Power BI  | R    
  I love turning raw data into actionable strategies  
  Ask me about visual storytelling, dashboards, Analytics    
